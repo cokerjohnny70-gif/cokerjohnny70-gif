@@ -2,7 +2,7 @@
 
 - <b>PowerShell</b>
   - [ Cyber-Fortune-Teller ]( https://github.com/cokerjohnny70-gif/Cyber-Fortune-Teller )
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [JWipe Powershell (Disk Wiping Utility)]( https://github.com/cokerjohnny70-gif/jwipe )
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)]( https://github.com/cokerjohnny70-gif/FIM-File-Integrity-Monitor- )
 - <b>C# (.NET Desktop Applications)</b>
