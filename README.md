@@ -14,8 +14,7 @@
 
 - [Fortune Teller Demo](https://youtu.be/xDsppdNQlmk)
 - [A Day in the Life of a Cybersecurity Analyst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a Keylogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+
 
 ## 🤳 Connect with Me
 
