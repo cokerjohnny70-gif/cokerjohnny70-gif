@@ -1,4 +1,7 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Johnny! <br/>
+<a href="https://github.com/cokerjohnny70-gif">Cybersecurity Analyst</a> | 
+<a href="https://www.youtube.com/@JohnnyCokeryoung">YouTuber</a>
+</h1>
 
 - <b>PowerShell</b>
   - [ Cyber-Fortune-Teller ]( https://github.com/cokerjohnny70-gif/Cyber-Fortune-Teller )
@@ -22,7 +25,8 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/c/joshmadakor
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/johnny-young-331294346/
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
