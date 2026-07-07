@@ -3,7 +3,7 @@
 - <b>PowerShell</b>
   - [ Cyber-Fortune-Teller ]( https://github.com/cokerjohnny70-gif/Cyber-Fortune-Teller )
   - [JWipe Powershell (Disk Wiping Utility)]( https://github.com/cokerjohnny70-gif/jwipe )
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation](https://github.com/cokerjohnny70-gif/AD-Bulk-User-Provisioning-Lab)
   - [FIM (File Integrity Monitor)]( https://github.com/cokerjohnny70-gif/FIM-File-Integrity-Monitor- )
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
