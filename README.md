@@ -5,12 +5,7 @@
   - [JWipe Powershell (Disk Wiping Utility)]( https://github.com/cokerjohnny70-gif/jwipe )
   - [Active Directory Bulk User Creation](https://github.com/cokerjohnny70-gif/AD-Bulk-User-Provisioning-Lab)
   - [FIM (File Integrity Monitor)]( https://github.com/cokerjohnny70-gif/FIM-File-Integrity-Monitor- )
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 <h2>📺 My YouTube Videos</h2>
 
