@@ -1,5 +1,5 @@
 <h1>Hi, I'm Johnny! <br/>
-<a href="https://github.com/cokerjohnny70-gif">Cybersecurity Analyst</a> | 
+<a href="https://www.linkedin.com/in/johnny-young-331294346/">Cybersecurity Analyst</a> | 
 <a href="https://www.youtube.com/@JohnnyCokeryoung">YouTuber</a>
 </h1>
 
