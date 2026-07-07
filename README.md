@@ -3,42 +3,24 @@
 <a href="https://www.youtube.com/@JohnnyCokeryoung">YouTuber</a>
 </h1>
 
-- <b>PowerShell</b>
-  - [ Cyber-Fortune-Teller ]( https://github.com/cokerjohnny70-gif/Cyber-Fortune-Teller )
-  - [JWipe Powershell (Disk Wiping Utility)]( https://github.com/cokerjohnny70-gif/jwipe )
-  - [Active Directory Bulk User Creation](https://github.com/cokerjohnny70-gif/AD-Bulk-User-Provisioning-Lab)
-  - [FIM (File Integrity Monitor)]( https://github.com/cokerjohnny70-gif/FIM-File-Integrity-Monitor- )
+## 💻 PowerShell Projects
 
+- [Cyber-Fortune-Teller](https://github.com/cokerjohnny70-gif/Cyber-Fortune-Teller)
+- [JWipe PowerShell (Disk Wiping Utility)](https://github.com/cokerjohnny70-gif/jwipe)
+- [Active Directory Bulk User Creation](https://github.com/cokerjohnny70-gif/AD-Bulk-User-Provisioning-Lab)
+- [FIM (File Integrity Monitor)](https://github.com/cokerjohnny70-gif/FIM-File-Integrity-Monitor-)
 
-<h2>📺 My YouTube Videos</h2>
+## 📺 My YouTube Videos
 
-- [ Fortune demo ]( https://youtu.be/xDsppdNQlmk )
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Fortune Teller Demo](https://youtu.be/xDsppdNQlmk)
+- [A Day in the Life of a Cybersecurity Analyst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a Keylogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
+## 🤳 Connect with Me
 
-<h2> 🤳 Connect with me:</h2>
+[<img align="left" alt="Johnny Young | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Johnny Young | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/@JohnnyCokeryoung
 [linkedin]: https://www.linkedin.com/in/johnny-young-331294346/
-
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
