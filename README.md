@@ -13,7 +13,7 @@
 ## 📺 My YouTube Videos
 
 - [Fortune Teller Demo](https://youtu.be/xDsppdNQlmk)
-- [A Day in the Life of a Cybersecurity Analyst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [File Integrity Monitor Demo ](https://youtu.be/vt55GoT47YE)
 
 
 ## 🤳 Connect with Me
