@@ -15,6 +15,8 @@
 - [ Azure Identity & Access Management Project | Entra ID, RBAC, Conditional Access, MFA](https://github.com/cokerjohnny70-gif/Azure-Identity-and-Access-Management-IAM-Project)
 
 
+- [Enterprise Identity Lifecycle Management Lab ](https://github.com/cokerjohnny70-gif/Enterprise-Identity-Lifecycle-Entra-ID-Lab)
+
 
 ## 📺 My YouTube Videos
 
