@@ -19,11 +19,10 @@
 
 - [ Identity Governance](https://github.com/cokerjohnny70-gif/Identity-Governance)
 
-
-<h2>🔐 Okta IAM Projects</h2>
+## 🆔 Okta Identity & Access Management Projects
 
 - [Okta User Lifecycle Management Lab](https://github.com/cokerjohnny70-gif/Okta-User-Lifecycle-Management-Lab)
-  
+- [Okta Group-Based Access Control (RBAC) Lab](https://github.com/cokerjohnny70-gif/Okta-Group-Based-Access-Control-RBAC-Lab)
 
 
 
