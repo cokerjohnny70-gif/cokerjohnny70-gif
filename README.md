@@ -14,7 +14,6 @@
 
 - [ Azure Identity & Access Management Project | Entra ID, RBAC, Conditional Access, MFA](https://github.com/cokerjohnny70-gif/Azure-Identity-and-Access-Management-IAM-Project)
 
-
 - [Enterprise Identity Lifecycle Management Lab ](https://github.com/cokerjohnny70-gif/Enterprise-Identity-Lifecycle-Entra-ID-Lab)
 
 - [ Identity Governance](https://github.com/cokerjohnny70-gif/Identity-Governance)
@@ -24,6 +23,7 @@
 - [Okta User Lifecycle Management Lab](https://github.com/cokerjohnny70-gif/Okta-User-Lifecycle-Management-Lab)
 - [Okta Group-Based Access Control (RBAC) Lab](https://github.com/cokerjohnny70-gif/Okta-Group-Based-Access-Control-RBAC-Lab)
 - [Okta & Microsoft Entra ID Federation (OIDC) Lab](https://github.com/cokerjohnny70-gif/Okta-Entra-Federation-Lab)
+- [Okta SAML SSO & Terraform IAM Engineer Lab](https://github.com/cokerjohnny70-gif/Okta-SAML-IAM-Engineer-Lab)
 
 
 
