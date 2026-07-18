@@ -24,6 +24,8 @@
 - [Okta Group-Based Access Control (RBAC) Lab](https://github.com/cokerjohnny70-gif/Okta-Group-Based-Access-Control-RBAC-Lab)
 - [Okta & Microsoft Entra ID Federation (OIDC) Lab](https://github.com/cokerjohnny70-gif/Okta-Entra-Federation-Lab)
 - [Okta SAML SSO & Terraform IAM Engineer Lab](https://github.com/cokerjohnny70-gif/Okta-SAML-IAM-Engineer-Lab)
+- [Okta Enterprise IAM Automation with Terraform](https://github.com/cokerjohnny70-gif/Okta-Terraform-IAM-Automation)
+  Automated Okta users, department groups, RBAC-style group memberships, and Joiner–Mover–Leaver identity lifecycle processes using Terraform.
 
 
 
