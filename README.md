@@ -18,6 +18,8 @@
 
 - [ Identity Governance](https://github.com/cokerjohnny70-gif/Identity-Governance)
 
+- [Microsoft Entra PIM – Just-in-Time Role Activation](https://github.com/cokerjohnny70-gif/Entra-PIM-JIT-Role-Activation)
+
 ## 🆔 Okta Identity & Access Management Projects
 
 - [Okta User Lifecycle Management Lab](https://github.com/cokerjohnny70-gif/Okta-User-Lifecycle-Management-Lab)
